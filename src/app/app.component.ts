@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'maps-angular';
+  texto = 'Bem Vindo a Salvador -BA';
+  lat = -12.9711100;
+  long = -38.5108300;
+  zoom = 15;
+
 }
